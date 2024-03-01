@@ -1,0 +1,17 @@
+h1{
+   font-style: oblique;
+   font-size: 30px;
+   background-color: chocolate;
+     }
+     p{
+        background-color:crimson;
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+     }
+
+     h2{ 
+        background-color:rgb(158, 158, 158);
+       font-style:italic;
+        color: rgb(4, 255, 234);
+
+     }
